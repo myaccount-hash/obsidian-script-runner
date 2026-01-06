@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-script-runner",
+  "name": "Script Runner",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Run Python scripts from .scripts directory",
+  "author": "Author",
+  "isDesktopOnly": true
+}
